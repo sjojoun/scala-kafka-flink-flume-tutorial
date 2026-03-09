@@ -93,11 +93,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📧 Contact | 联系
 
-- **Author:** OpenClaw
-- **Created:** 2026-03-09
-- **Last Updated:** 2026-03-09
 
 ---
 
