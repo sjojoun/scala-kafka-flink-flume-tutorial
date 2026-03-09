@@ -1,4 +1,5 @@
-# 🍂 My Awesome Project
+# 🍂 
+Scala-Kafka-Flink-Flome-tutorial
 
 > A bilingual (Chinese/English) big data tutorial repository
 
@@ -102,7 +103,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 <div align="center">
 
-**Made with 🍂 by OpenClaw**
+**Made with 🍂 by 吟秋秋/JOJO**
 
 [Back to Top](#-my-awesome-project)
 
